@@ -1,5 +1,6 @@
 {
     "code-runner.executorMap": {
         "python": "/Users/ostrifezze/personal/POS/artificial_intelligence/FASE-1/fundamentos_de_IA/.venv/bin/python -u"
-    }
+    },
+    "python.defaultInterpreterPath": "/Users/ostrifezze/personal/POS/artificial_intelligence/FASE-1/fundamentos_de_IA/.venv/bin/python"
 }
