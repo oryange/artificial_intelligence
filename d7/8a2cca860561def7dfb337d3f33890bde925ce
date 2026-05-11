@@ -1,0 +1,19 @@
+FASE-2/Introdução_algoritmo_genético/Aula_02_Inspiracao_Natureza_NEAT.md
+  s_6608cca935abe6::t_52263432ff2b39 5-14,20,22-28,32,34,36,38-58,60,63-69,73,77-112,132-172,186-198,201,210,248,251-329,332,336,354,363-380,382,385-388,391-392,395,399,408,422,433,453,456-459,461,465,470-473,477-490,494,497,506
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.6",
+  "base_commit_sha": "d78a2cca860561def7dfb337d3f33890bde925ce",
+  "prompts": {},
+  "sessions": {
+    "s_6608cca935abe6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "362deaf5-0412-4eb9-b44a-6e1f69a56980",
+        "model": "unknown"
+      },
+      "human_author": "ostrifezze_meli <oryange.strifezze@mercadolivre.com>"
+    }
+  }
+}
