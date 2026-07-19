@@ -1,0 +1,14 @@
+.gitignore
+  h_b1cfeabb29f07b 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "aeecdd672ae5f1246db8374d566a56408758a51b",
+  "prompts": {},
+  "humans": {
+    "h_b1cfeabb29f07b": {
+      "author": "ostrifezze_meli <oryange.strifezze@mercadolivre.com>"
+    }
+  }
+}
