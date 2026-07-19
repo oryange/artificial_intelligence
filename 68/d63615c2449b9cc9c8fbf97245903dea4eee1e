@@ -1,0 +1,837 @@
+requirements.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-6
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/network/session.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-528
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco/functools/__init__.pyi
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-125
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.text-3.12.1.dist-info/RECORD
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-20
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/zip-safe
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/utils/retry.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-45
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/palette.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-100
+FASE-2/Introdução_algoritmo_genético/Aula_03_Componentes_AG.md
+  s_819aaec397e8ad::t_27446b9ccc0c84 6,14,16-56,62-64,77,79-81,92-105,107,109-111,121-142,145-147,149-158,168-170,172,180-195,201-202,205,216-218,220-222,224,229-234,239,249-258,270-366,368,370,372,386,388-390,394-395,400-401,409-410,413-415,417,429-431,435,441-443,445,451,453-455,458-460,464,466,468,472-473,475,481,483-485,487,489,498-500,502,506-508,511-513,518-521,524,527,529,545,547,553-577,593-596,599,601,610,617,632,645,647-653,655,658,665-671,675,679
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/logging.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-40
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/inflect-7.3.1.dist-info/RECORD
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-13
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/_distutils_hack/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-239
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/rule.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-130
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/_version.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-2
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/certifi/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-20
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/dependency_groups/LICENSE.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-9
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/utils/hashes.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-150
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/truststore/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-36
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-389
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_dist.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-552
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/zipp-3.19.2.dist-info/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-17
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/zipp-3.19.2.dist-info/WHEEL
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-5
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/command/build_clib.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-103
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/requests/status_codes.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-128
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.functools-4.0.1.dist-info/top_level.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/integration/test_pip_install_sdist.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-223
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/more_itertools/__init__.pyi
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-2
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip-25.3.dist-info/METADATA
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-111
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_sdist.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-470
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/_log_render.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-94
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/distro/__main__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-4
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/_wrap.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-93
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/index/package_finder.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1059
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/color.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-621
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/compat/py39.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-40
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/autocommand/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-27
+"FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/script (dev).tmpl"
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-6
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/typeguard/_transformer.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1229
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip-25.3.dist-info/licenses/AUTHORS.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-842
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.context-5.3.0.dist-info/INSTALLER
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/archive_util.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-294
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/importlib_metadata/_adapters.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-83
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/operations/build/wheel_editable.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-47
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/test_archive_util.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-36
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/utils/subprocess.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-248
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pkg_resources/tests/test_integration_zope_interface.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-54
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/platformdirs/__main__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-55
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/req/req_uninstall.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-639
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/more_itertools-10.3.0.dist-info/WHEEL
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-4
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/pyproject_hooks/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-21
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/unicode_utils.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-102
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco/text/strip-prefix.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-21
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/_ratio.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-153
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/packaging/_manylinux.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-262
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol/adapter.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-168
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/_timer.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-19
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/live.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-400
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/models/candidate.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-25
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/network/cache.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-128
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/certifi/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-4
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/wheel/cli/unpack.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-30
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/pager.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-34
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/resolution/resolvelib/requirements.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-247
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/util/url.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-435
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/operations/install/wheel.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-746
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools-80.9.0.dist-info/entry_points.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-51
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/test_dist.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-278
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/models/format_control.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-78
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/certifi/cacert.pem
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-4800
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/command/bdist_rpm.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-598
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/cli/status_codes.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-6
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol/_cmd.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-70
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/distro/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-54
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/config/_validate_pyproject/fastjsonschema_validations.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1412
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-627
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/typing_extensions-4.12.2.dist-info/WHEEL
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-4
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/locations/_sysconfig.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-215
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-36
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/compilers/C/errors.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-24
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/wheel/vendored/packaging/specifiers.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1011
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/resolution/base.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-20
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/color_triplet.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-38
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/inflect/compat/py38.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-7
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/models/selection_prefs.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-53
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/distro/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-202
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/version.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-6
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/utils/entrypoints.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-88
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/cli/base_command.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-244
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/control.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-219
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/requests/models.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1039
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.context-5.3.0.dist-info/top_level.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/pygments/style.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-203
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol/controller.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-511
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/typing_extensions-4.12.2.dist-info/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-279
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/util.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-518
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/typeguard/_memo.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-48
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/_distutils_hack/override.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/tomli-2.0.1.dist-info/RECORD
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-15
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/utils/compatibility_tags.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-201
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/filelist.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-431
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/styled.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-42
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/vcs/git.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-571
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/command/easy_install.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-30
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/packaging/markers.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-362
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/SOURCES.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-7
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/test_warnings.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-106
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools-80.9.0.dist-info/RECORD
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-869
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/pygments/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-25
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/command/sdist.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-521
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/box.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-474
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_bdist_rpm.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-127
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/tomli/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-8
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/tomli-2.0.1.dist-info/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-21
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/compilers/C/tests/test_mingw.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-48
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/build_env.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-417
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-13
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/utils/egg_link.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-81
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/operations/freeze.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-259
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_discovery.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-33
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/script-with-bom.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/command/dist_info.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-103
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-166
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/resolvelib/reporters.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-55
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/command/config.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-358
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/pygments/util.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-324
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-519
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/autocommand-2.2.2.dist-info/WHEEL
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-5
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/command/install.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-131
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/_spinners.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-482
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/requests/hooks.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-33
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/typeguard-4.3.0.dist-info/INSTALLER
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/utils/filetypes.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-24
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/operations/prepare.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-748
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/certifi/core.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-83
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/req/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-103
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/operations/install/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol/heuristics.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-157
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/_emoji_replace.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-32
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/config/_validate_pyproject/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-34
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/command/_requirestxt.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-131
+FASE-2/chatbots_assistentes_virtuais/.env
+  h_b1cfeabb29f07b 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-177
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/commands/debug.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-203
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/models/target_python.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-122
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/config/setuptools.schema.json
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-433
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/constrain.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-37
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/packaging-24.2.dist-info/WHEEL
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-4
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-57
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/platformdirs/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-21
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_util.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-243
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info/WHEEL
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-5
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/util/ssl_match_hostname.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-159
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol/caches/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-8
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/metadata/base.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-685
+FASE-2/chatbots_assistentes_virtuais/agent-llm.py
+  h_b1cfeabb29f07b 13-28,31-32,47,49,64,66,70-89,91,93-94,96-97,99-101,105,107,112-114,124,126-135
+  s_d4e0713304fbf5::t_bc6c5a9ef00a43 3
+  s_d4e0713304fbf5::t_10eddd08ae6941 92,125
+  s_d4e0713304fbf5::t_8e258173dc9964 29-30,33-46,48,50-63,65,67-69,90,95,98,102-104,106,108-111,115-123,136-146
+  s_d4e0713304fbf5::t_93b5d1f7335676 5
+  s_d4e0713304fbf5::t_34380744a9919f 12
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.context-5.3.0.dist-info/WHEEL
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-5
+"FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/command/launcher manifest.xml"
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-15
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/inflect/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-3986
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/typeguard/_exceptions.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-42
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/packaging-24.2.dist-info/RECORD
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-25
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/command/build_py.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-400
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/wheel/vendored/packaging/requirements.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-90
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info/top_level.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/version.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-348
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/backports.tarfile-1.2.0.dist-info/INSTALLER
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/packaging/LICENSE.APACHE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-177
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-13
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/resolvelib/resolvers/criterion.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-48
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/tomli-2.0.1.dist-info/METADATA
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-206
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/backports.tarfile-1.2.0.dist-info/WHEEL
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-5
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/command/build_clib.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-201
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/config/_validate_pyproject/fastjsonschema_exceptions.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-51
+FASE-2/chatbots_assistentes_virtuais/venv/bin/python3
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/console.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-2680
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_install_data.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-74
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/network/lazy_wheel.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-215
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/network/utils.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-98
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_core_metadata.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-337
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.text-3.12.1.dist-info/METADATA
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-95
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_file_util.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-95
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_reqs.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-42
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip-25.3.dist-info/licenses/LICENSE.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-20
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/packaging/licenses/_spdx.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-759
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/wheel/vendored/packaging/markers.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-253
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/debug.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-5
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_itertools.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-23
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/platformdirs/__main__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-55
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/filepost.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-98
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/packaging/markers.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-331
+FASE-2/chatbots_assistentes_virtuais/venv/bin/pip3
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-7
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/truststore/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-21
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/wheel/vendored/packaging/_elffile.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-108
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/metadata/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-169
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/commands/freeze.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-107
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/importlib_metadata/_compat.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-57
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/cli/spinners.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-235
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.collections-5.1.0.dist-info/top_level.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/screen.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-54
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/locations/_distutils.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-173
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_build_scripts.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-96
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/test_build_py.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-480
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/config/distutils.schema.json
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-26
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/connection.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-572
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/packages/six.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1076
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/packaging/_musllinux.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-85
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/bar.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-93
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.context-5.3.0.dist-info/RECORD
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-8
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/models/scheme.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-25
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/idna/package_data.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/compilers/C/msvc.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-614
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/contrib/securetransport.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-920
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.text-3.12.1.dist-info/INSTALLER
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_shutil.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-59
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/dist.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1119
+FASE-2/chatbots_assistentes_virtuais/venv/bin/activate
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-63
+FASE-2/chatbots_assistentes_virtuais/requirements.txt
+  s_d4e0713304fbf5::t_5e289a698715b1 5
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_dir_util.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-139
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/command/rotate.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-65
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pkg_resources/tests/test_resources.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-869
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/packaging/utils.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-163
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/utils/packaging.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-44
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/compat/numpy.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-2
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/text_file.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-286
+FASE-2/chatbots_assistentes_virtuais/venv/bin/python
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/_inspect.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-268
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/environment.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-95
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/packaging/utils.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-163
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_build_ext.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-628
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/inflect-7.3.1.dist-info/INSTALLER
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/config/test_apply_pyprojecttoml.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-772
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/test_setopt.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-40
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_extension.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-117
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/test_find_py_modules.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-73
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/pyproject_hooks/_impl.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-410
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/_null_file.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-69
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/resolvelib/providers.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-196
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.functools-4.0.1.dist-info/METADATA
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-64
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/msgpack/COPYING
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-14
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/command/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-21
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/zipp/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-501
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/command/sdist.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-217
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/commands/download.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-142
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/config/_apply_pyprojecttoml.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-526
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/wheel/vendored/packaging/_tokenizer.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-192
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/integration/test_pbr.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-20
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/cli/req_command.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-371
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/req/constructors.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-566
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/distutils-precedence.pth
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/backports.tarfile-1.2.0.dist-info/top_level.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/command/bdist_egg.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-477
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.collections-5.1.0.dist-info/RECORD
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-10
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/utils/appdirs.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-52
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/__pip-runner__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-50
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/importlib_metadata/diagnose.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-21
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/test_find_packages.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-218
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/requests/__version__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-14
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools-80.9.0.dist-info/WHEEL
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-5
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/wheel/cli/convert.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-332
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/typeguard/_config.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-108
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/config/_validate_pyproject/NOTICE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-438
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info/INSTALLER
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/text.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1361
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/wheel/macosx_libfile.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-482
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/dist.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1386
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/typeguard/_checkers.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-993
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/typeguard/_union_transformer.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-55
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/test_core_metadata.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-622
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/wheel/vendored/packaging/_musllinux.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-83
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/requests/_internal_utils.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-50
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/requests/help.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-127
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/command/develop.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-55
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/pretty.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1016
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/utils/_jaraco_text.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-109
+"FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco/text/Lorem ipsum.txt"
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-2
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/config/pyprojecttoml.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-468
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_check.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-194
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/_collections.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-355
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/spawn.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-134
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/measure.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-151
+FASE-2/chatbots_assistentes_virtuais/venv/bin/activate.csh
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-26
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/_log.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-3
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/pygments/styles/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-61
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-48
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/config/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-43
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/config/_validate_pyproject/extra_validations.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-82
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/packaging-24.2.dist-info/METADATA
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-102
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/command/install_data.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-94
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/vcs/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-15
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/containers.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-167
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/importlib_metadata/compat/py39.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-36
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/backports.tarfile-1.2.0.dist-info/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-17
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/util/retry.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-622
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.text-3.12.1.dist-info/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-17
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/operations/build/metadata.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-38
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/pygments/filter.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-70
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco/context.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-361
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/commands/lock.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-167
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/vendor.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-19
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/sysconfig.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-598
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/platformdirs/windows.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-272
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_path.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-93
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/discovery.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-614
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/cli/main_parser.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-134
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/command/build_py.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-407
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/tomli/_types.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-10
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/inflect-7.3.1.dist-info/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-17
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/compat/py39.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-66
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.collections-5.1.0.dist-info/WHEEL
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-5
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/tomli/_parser.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-777
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/platformdirs/version.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-16
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_modified.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-126
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/wheel/vendored/vendor.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/commands/help.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-40
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/resolvelib/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-13
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/wheel/vendored/packaging/_manylinux.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-260
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/pygments/lexers/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-362
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/_modified.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-95
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/commands/show.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-231
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/pygments/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-82
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/platformdirs-4.2.2.dist-info/INSTALLER
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/command/editable_wheel.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-908
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/platformdirs/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-631
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/rich/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-19
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/certifi/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-20
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/pygments/unistring.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-153
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/msgpack/ext.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-170
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/zipp-3.19.2.dist-info/top_level.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/bin/python3.11
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/config/downloads/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-59
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/test_bdist_deprecations.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-28
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol/cache.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-75
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/command/check.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-152
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/platformdirs/macos.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-146
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/wheel.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-261
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol/LICENSE.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-13
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/errors.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-108
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/typing_extensions-4.12.2.dist-info/METADATA
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-67
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/errors.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-67
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol/wrapper.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-43
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/commands/install.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-803
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/platformdirs-4.2.2.dist-info/licenses/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-21
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/traceback.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-899
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/compilers/C/base.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1394
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/util/proxy.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-57
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/resolution/resolvelib/base.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-142
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/pygments/regexopt.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-91
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_install_scripts.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-52
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/util/timeout.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-271
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/commands/index.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-159
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/pygments/styles/_mapping.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-54
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/wheel/vendored/packaging/version.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-561
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/requests/cookies.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-561
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/abc.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-33
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/platformdirs/windows.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-272
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/util/wait.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-152
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/req/req_install.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-828
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/requests/sessions.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-831
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/models/direct_url.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-227
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/themes.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-5
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/compilers/C/tests/test_base.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-83
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/markup.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-251
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco.collections-5.1.0.dist-info/METADATA
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-85
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/compat/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-18
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/pygments/__main__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-17
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools-80.9.0.dist-info/METADATA
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-141
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/segment.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-752
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/idna/core.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-437
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/test_build_meta.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-959
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/mod_with_constant.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/test_windows_wrappers.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-258
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_install_lib.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-110
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/platformdirs/android.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-249
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/packaging/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-15
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/platformdirs-4.2.2.dist-info/RECORD
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-23
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pkg_resources/tests/test_find_distributions.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-56
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/compilers/C/unix.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-422
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco/text/layouts.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-25
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/packaging/_structures.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-61
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/vcs/bazaar.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-130
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/inflect-7.3.1.dist-info/top_level.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_entry_points.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-94
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/dependency_groups/__main__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-65
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/distlib/resources.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-358
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/requests/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-175
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/errors.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-34
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/more_itertools-10.3.0.dist-info/LICENSE
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-19
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/command/clean.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-77
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/utils/filesystem.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-164
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_internal/network/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/test_extern.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-15
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/resolvelib/resolvers/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-27
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/packaging/licenses/_spdx.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-759
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/importlib_metadata/compat/py311.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-22
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/distlib/LICENSE.txt
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-284
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/default_styles.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-193
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/pygments/lexers/python.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1201
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/msvc.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1536
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_distutils/tests/test_build.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-49
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/text.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-4
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/_vendor/platformdirs/__init__.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-627
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/pip/_vendor/rich/_win32_console.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-661
+FASE-2/chatbots_assistentes_virtuais/venv/lib/python3.11/site-packages/setuptools/tests/test_editable_install.py
+  s_d4e0713304fbf5::t_7e6eb75c837492 1-1263
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "68d63615c2449b9cc9c8fbf97245903dea4eee1e",
+  "prompts": {},
+  "humans": {
+    "h_b1cfeabb29f07b": {
+      "author": "ostrifezze_meli <oryange.strifezze@mercadolivre.com>"
+    }
+  },
+  "sessions": {
+    "s_819aaec397e8ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9a7e8b14-7841-4837-a52f-cbdd30ccc94f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "ostrifezze_meli <oryange.strifezze@mercadolivre.com>"
+    },
+    "s_d4e0713304fbf5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4bec5349-753b-4790-9462-6d6d4b7094ae",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "ostrifezze_meli <oryange.strifezze@mercadolivre.com>"
+    }
+  }
+}
